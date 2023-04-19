@@ -12,7 +12,7 @@
 	branch = master
 [submodule "thirdparty/freetype"]
 	path = thirdparty/freetype
-	url = https://gitlab.freedesktop.org/freetype/freetype
+	url = https://gitlab.freedesktop.org/freetype/freetype.git
 [submodule "thirdparty/DearPyGui_Ext"]
 	path = thirdparty/DearPyGui_Ext
 	url = https://github.com/hoffstadt/DearPyGui_Ext
